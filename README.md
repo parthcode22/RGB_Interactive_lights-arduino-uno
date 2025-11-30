@@ -11,7 +11,8 @@ This project uses Arduino UNO, RGB LED, and three potentiometers to manually con
 - Jumper Wires
 
 ## 🔧 Tinkercad Link:
-(Add link here)
+https://www.tinkercad.com/things/bTIPiMy2p4O-smashing-jaban-densor
 
 ## 📸 Circuit Diagram:
-(Images uploaded below)
+<img width="1280" height="534" alt="Smashing Jaban-Densor" src="https://github.com/user-attachments/assets/13dd90a5-6b94-41ea-87de-c93b25b006a7" />
+
